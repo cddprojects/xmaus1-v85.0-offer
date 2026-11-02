@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en-AU">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thanks, we've got your details | Fitnimbly AU</title>
+  <meta name="robots" content="noindex" />
+  <meta name="theme-color" content="#0D2137" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;700;800&family=Hanken+Grotesk:wght@400;500;600;700&family=DM+Mono:wght@500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../shared.css" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --bg:#FFFDF8; --white:#fff; --sea:#E8F2F6; --ink:#0D2137; --ink-2:#3A4D61; --mute:#566879; --line:#E1E7EC; --ocean:#0B6B9A; --ocean-d:#08516F; --wattle:#FFC52E; --wattle-d:#F2AE00; --gum:#2B6A55; }
+    body { font-family:'Hanken Grotesk',system-ui,sans-serif; background:linear-gradient(180deg,#D5EAF2 0,#EEF6F7 340px,var(--bg) 640px); color:var(--ink); line-height:1.6; font-size:1.0625rem; min-height:100vh; display:flex; flex-direction:column; -webkit-font-smoothing:antialiased; }
+    a { color:inherit; text-decoration:none; }
+    :focus-visible { outline:3px solid var(--ocean); outline-offset:3px; border-radius:6px; }
+    .wrap { width:min(100%,760px); margin-inline:auto; padding-inline:22px; }
+    main { flex:1; display:grid; align-items:center; padding-block:32px 56px; }
+    .card { background:var(--white); border:1px solid var(--line); border-radius:28px; padding:48px 40px; box-shadow:0 40px 80px -40px rgba(13,33,55,.4); }
+    .tick { width:68px; height:68px; border-radius:20px; background:var(--wattle); color:var(--ink); display:grid; place-items:center; margin-bottom:24px; }
+    .tick svg { width:32px; height:32px; }
+    h1 { font-family:'Manrope',sans-serif; font-weight: 800; font-size:clamp(2.1rem,6vw,3.2rem); letter-spacing: -0.035em; line-height:1; margin-bottom:16px; }
+    h1 em { font-style:normal; color:var(--ocean); display:block; }
+    .sub { color:var(--ink-2); font-size:1.08rem; max-width:50ch; margin-bottom:30px; }
+    .next { background:var(--bg); border:1px solid var(--line); border-radius:20px; padding:24px; margin-bottom:28px; }
+    .next h2 { font-family:'DM Mono',monospace; font-weight:500; font-size:.76rem; letter-spacing:.1em; text-transform:uppercase; color:var(--mute); margin-bottom:18px; }
+    .step { display:flex; gap:14px; margin-bottom:18px; }
+    .step:last-child { margin-bottom:0; }
+    .dot { width:30px; height:30px; border-radius:9px; background:var(--ink); color:#fff; font-family:'Manrope',sans-serif; font-size:.9rem; font-weight: 800; display:grid; place-items:center; flex-shrink:0; margin-top:1px; }
+    .step strong { display:block; font-size:1rem; }
+    .step span { font-size:.92rem; color:var(--ink-2); }
+    .btns { display:flex; flex-wrap:wrap; gap:12px; }
+    .btn { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:52px; padding:14px 26px; border-radius:14px; border:2px solid transparent; font-weight:700; font-size:1rem; transition:transform .2s, box-shadow .2s, background .2s, color .2s; }
+    .btn-go { background:var(--wattle); color:var(--ink); box-shadow:0 4px 0 var(--wattle-d); } .btn-go:hover { transform:translateY(-2px); box-shadow:0 6px 0 var(--wattle-d); }
+    .btn-ghost { border-color:var(--ink); } .btn-ghost:hover { background:var(--ink); color:#fff; }
+    .btn svg { width:20px; height:20px; }
+    .note { margin-top:22px; font-size:.85rem; color:var(--mute); }
+    @media (max-width:520px) { .card { padding:32px 22px; } .btn { width:100%; } }
+    @media (prefers-reduced-motion: reduce) { *, *::before, *::after { transition-duration:.01ms !important; } }
+  </style>
+</head>
+<body>
+<header class="site-nav">
+  <nav class="site-wrap nav-in" aria-label="Main">
+    <a href="../" class="site-logo" aria-label="Fitnimbly AU home">Fitnimbly<b>AU</b></a>
+    <div class="nav-links">
+      <a href="../#why">Why it helps</a>
+      <a href="../#how">How it works</a>
+      <a href="../#reviews">Reviews</a>
+      <a href="../#faq">FAQ</a>
+    </div>
+    <a href="../#apply" class="site-cta">Get my plan</a>
+  </nav>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="card">
+      <div class="tick"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div>
+      <h1>Thanks, we've got your details. <em>Talk soon.</em></h1>
+      <p class="sub">A real person from the Fitnimbly AU team will message you on WhatsApp within 24 hours to walk you through the work and answer any questions. No pressure either way.</p>
+
+      <div class="next">
+        <h2>What happens next</h2>
+        <div class="step"><div class="dot">1</div><div><strong>We review your details</strong><span>A quick look to make sure we can match you with suitable tasks.</span></div></div>
+        <div class="step"><div class="dot">2</div><div><strong>We message you on WhatsApp</strong><span>Usually the same day, and within 24 hours at the latest.</span></div></div>
+        <div class="step"><div class="dot">3</div><div><strong>Try a first task, get paid</strong><span>Your first payout lands within 48 hours of your first approved task. No minimum payout.</span></div></div>
+      </div>
+
+      <div class="btns">
+        <a class="btn btn-ghost" href="../">Back to home</a>
+      </div>
+      <p class="note">Your details stay private. We never sell or share your information.</p>
+    </div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="site-wrap">
+    <div class="ft">
+      <div>
+        <a class="site-logo" href="../">Fitnimbly<b>AU</b></a>
+        <p>Work-from-home jobs and flexible online work for Aussies. Earn extra income with simple remote tasks. First payout within 48 hours, no minimum payout, no upfront fees.</p>
+      </div>
+      <div>
+        <h5>Explore</h5>
+        <ul>
+          <li><a href="../#why">Why it helps</a></li>
+          <li><a href="../#how">How it works</a></li>
+          <li><a href="../#reviews">Reviews</a></li>
+          <li><a href="../#faq">FAQ</a></li>
+        </ul>
+      </div>
+      <div>
+        <h5>Contact</h5>
+        <ul>
+          <li><a href="mailto:hello@fitnimbly.com">hello@fitnimbly.com</a></li>
+          <li><a href="../privacy-policy/">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="ft-bot">
+      <p>&copy; 2026 Fitnimbly AU. Income figures are estimates based on active earner data and are not a guarantee. Rates vary by task. Results vary with effort, availability and task volume. First payout timing applies once your first task is approved. Reviews reflect individual experiences.</p>
+    </div>
+  </div>
+</footer></body>
+</html>
