@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Work From Home Jobs &amp; Extra Income in Australia | Fitnimbly AU</title>
-  <meta name="description" content="Fitnimbly AU connects Aussies with flexible work from home jobs: simple, paid online tasks you can do remotely for extra income of A$1,000–$4,500 a month. Free to join. First payout within 48 hours, no minimum payout." />
+  <title>Work From Home Jobs &amp; Extra Income in Australia | Roleblend AU</title>
+  <meta name="description" content="Roleblend AU connects Aussies with flexible work from home jobs: simple, paid online tasks you can do remotely for extra income of A$1,000–$4,500 a month. Free to join. First payout within 48 hours, no minimum payout." />
   <meta property="og:locale" content="en_AU" />
-  <meta property="og:title" content="The cost of living went up. Your pay didn't. Let's sort that. | Fitnimbly AU" />
+  <meta property="og:title" content="The cost of living went up. Your pay didn't. Let's sort that. | Roleblend AU" />
   <meta property="og:description" content="Work from home with flexible online tasks and earn extra income. Free to join. First payout within 48 hours, no minimum payout." />
   <meta name="theme-color" content="#0D2137" />
   <script>document.documentElement.classList.add('js');</script>
@@ -445,7 +445,7 @@
 
 <header class="site-nav">
   <nav class="site-wrap nav-in" aria-label="Main">
-    <a href="./" class="site-logo" aria-label="Fitnimbly AU home">Fitnimbly<b>AU</b></a>
+    <a href="./" class="site-logo" aria-label="Roleblend AU home">Roleblend<b>AU</b></a>
     <div class="nav-links">
       <a href="./#why">Why it helps</a>
       <a href="./#how">How it works</a>
@@ -469,7 +469,7 @@
       </div>
       <div class="rv d1">
         <p class="lede">
-          Fitnimbly AU matches Aussies with flexible work-from-home jobs: simple, paid online tasks you do remotely, on your own time. After work, between shifts, a quiet Sunday arvo. Our earners typically make <strong>A$1,000–$4,500 extra income a month</strong>, with your first payout within 48 hours and no minimum payout.
+          Roleblend AU matches Aussies with flexible work-from-home jobs: simple, paid online tasks you do remotely, on your own time. After work, between shifts, a quiet Sunday arvo. Our earners typically make <strong>A$1,000–$4,500 extra income a month</strong>, with your first payout within 48 hours and no minimum payout.
         </p>
         <ul class="hero-checks">
           <li><svg aria-hidden="true"><use href="#check"/></svg>First payout within 48 hours</li>
@@ -491,8 +491,8 @@
         <img src="images/hero-home.jpg" srcset="images/hero-home-480.jpg 480w, images/hero-home-768.jpg 768w, images/hero-home.jpg 1024w" sizes="(min-width: 960px) 800px, (min-width: 560px) 560px, 92vw" width="1024" height="768" alt="A woman working from home on her laptop and phone on a sunny verandah with a coffee" fetchpriority="high" />
         <div class="notifs" aria-hidden="true">
           <span class="eg">Example payouts</span>
-          <div class="notif"><div class="notif-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><div class="notif-t"><b>Weekly payout</b>Fitnimbly AU · Fri 4:12 pm</div><div class="notif-a">+A$486.20</div></div>
-          <div class="notif"><div class="notif-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><div class="notif-t"><b>First payout</b>Fitnimbly AU · Wed 2:15 pm</div><div class="notif-a">+A$76.50</div></div>
+          <div class="notif"><div class="notif-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><div class="notif-t"><b>Weekly payout</b>Roleblend AU · Fri 4:12 pm</div><div class="notif-a">+A$486.20</div></div>
+          <div class="notif"><div class="notif-ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></div><div class="notif-t"><b>First payout</b>Roleblend AU · Wed 2:15 pm</div><div class="notif-a">+A$76.50</div></div>
         </div>
       </figure>
     </div>
@@ -538,7 +538,7 @@
 </header>
 
 <!-- Stats -->
-<section class="stats" aria-label="Fitnimbly AU in numbers">
+<section class="stats" aria-label="Roleblend AU in numbers">
   <div class="wrap">
     <div class="stats-in">
       <div class="stat"><div class="stat-n"><span class="count" data-to="5400">0</span><em>+</em></div><div class="stat-l">Aussies earning with us</div></div>
@@ -683,7 +683,7 @@
       <article class="gcard" data-s="5">
         <div class="g-top"><div class="g-av" style="background:#BE185D">SK</div><div class="g-who"><div class="g-name">Simran K.</div><div class="g-sub"><span class="lg">Local Guide</span> · Truganina, VIC · 23 reviews</div></div><svg class="g-logo" aria-hidden="true"><use href="#google"/></svg></div>
         <div class="g-rate"><span class="g-stars" role="img" aria-label="5 stars">★★★★★</span><span class="g-when">4 months ago</span></div>
-        <p class="g-text">Aged care worker on rotating shifts. Between the rent, the car loan and two kids there's never anything spare. A mate at work told me about Fitnimbly. I started with about 6 hours a week on my days off and made roughly $800 the first month. Now I do around 12 hours and it's closer to $1,900. It doesn't replace my job and it's not meant to. But last term I covered the school camp and uniforms without touching my savings. That meant a lot.</p>
+        <p class="g-text">Aged care worker on rotating shifts. Between the rent, the car loan and two kids there's never anything spare. A mate at work told me about Roleblend. I started with about 6 hours a week on my days off and made roughly $800 the first month. Now I do around 12 hours and it's closer to $1,900. It doesn't replace my job and it's not meant to. But last term I covered the school camp and uniforms without touching my savings. That meant a lot.</p>
         <div class="wa dark" role="img" aria-label="WhatsApp chat screenshot: Simran asks about phone-friendly tasks and how tax works"><div class="wa-body">
           <div class="wa-s"><span>Hi, I work rotating shifts in aged care. Is there anything I can do on my phone on breaks?</span><span class="wa-m"><span class="wa-t">6:14 pm</span><svg class="tk b"><use href="#tk"/></svg></span></div>
           <div class="wa-r"><span>Hi Simran! Yep, surveys and short content tasks are really phone friendly. You pick what suits, no minimum</span><span class="wa-m"><span class="wa-t">6:20 pm</span></span></div>
@@ -848,7 +848,7 @@
     <div class="rv">
       <div class="eyebrow">Who we are</div>
       <h2 class="h2">Flexible work that fits your real life.</h2>
-      <p>Fitnimbly AU is an Aussie team helping working people earn extra income from home, on their own terms. Around a nine-to-five, a rotating roster, the school run, or all three at once.</p>
+      <p>Roleblend AU is an Aussie team helping working people earn extra income from home, on their own terms. Around a nine-to-five, a rotating roster, the school run, or all three at once.</p>
       <p>You're not after a miracle. You're after some breathing room, and a company that actually answers when you message them.</p>
     </div>
     <div class="vm rv d1">
@@ -891,7 +891,7 @@
         <div><label class="f" for="f-name">First name</label><input type="text" id="f-name" name="name" autocomplete="given-name" placeholder="Alex" required /></div>
         <div><label class="f" for="f-phone">Mobile number</label><input type="tel" id="f-phone" name="phone" autocomplete="tel-national" inputmode="tel" placeholder="04XX XXX XXX" required /></div>
         <div><label class="f" for="f-email">Email</label><input type="email" id="f-email" name="email" autocomplete="email" placeholder="alex@email.com.au" required /></div>
-        <label class="consent"><input type="checkbox" name="consent" required /> <span>I agree to be contacted by Fitnimbly AU by WhatsApp, text or email about this opportunity. <a href="privacy-policy/">Privacy Policy</a></span></label>
+        <label class="consent"><input type="checkbox" name="consent" required /> <span>I agree to be contacted by Roleblend AU by WhatsApp, text or email about this opportunity. <a href="privacy-policy/">Privacy Policy</a></span></label>
         <p class="form-err" role="alert" hidden></p>
         <button type="submit" class="btn btn-go btn-block">Get my plan</button>
         <p class="fine">We reply within 24 hours. Your details stay private and we never sell or share them. Estimates only; results vary.</p>
@@ -906,7 +906,7 @@
   <div class="site-wrap">
     <div class="ft">
       <div>
-        <a class="site-logo" href="./">Fitnimbly<b>AU</b></a>
+        <a class="site-logo" href="./">Roleblend<b>AU</b></a>
         <p>Work-from-home jobs and flexible online work for Aussies. Earn extra income with simple remote tasks. First payout within 48 hours, no minimum payout, no upfront fees.</p>
       </div>
       <div>
@@ -921,18 +921,18 @@
       <div>
         <h5>Contact</h5>
         <ul>
-          <li><a href="mailto:hello@fitnimbly.com">hello@fitnimbly.com</a></li>
+          <li><a href="mailto:hello@roleblend.com">hello@roleblend.com</a></li>
           <li><a href="privacy-policy/">Privacy Policy</a></li>
         </ul>
       </div>
     </div>
     <div class="ft-bot">
-      <p>&copy; 2026 Fitnimbly AU. Income figures are estimates based on active earner data and are not a guarantee. Rates vary by task. Results vary with effort, availability and task volume. First payout timing applies once your first task is approved. Reviews reflect individual experiences.</p>
+      <p>&copy; 2026 Roleblend AU. Income figures are estimates based on active earner data and are not a guarantee. Rates vary by task. Results vary with effort, availability and task volume. First payout timing applies once your first task is approved. Reviews reflect individual experiences.</p>
     </div>
   </div>
 </footer>
 
-<a class="wa-float" href="https://wa.me/61491570006?text=G%27day%20Fitnimbly%20AU%2C%20I%20saw%20your%20site%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener" aria-label="Message us on WhatsApp">
+<a class="wa-float" href="https://wa.me/61491570006?text=G%27day%20Roleblend%20AU%2C%20I%20saw%20your%20site%20and%20I%27d%20like%20to%20know%20more." target="_blank" rel="noopener" aria-label="Message us on WhatsApp">
   <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
 </a>
 
@@ -1003,7 +1003,7 @@
       if (!f['consent'].checked) return showErr(form, f['consent'], 'Please tick the box so we\'re allowed to contact you.');
       const e = window.__estimate;
       const est = `\nMy estimate: ${e.h} hrs/week, about A$${fmt(e.mo)}/month`;
-      const msg = `G'day Fitnimbly AU! I'd like to know more about the work-from-home opportunity.\n\nName: ${name}\nEmail: ${email}\nMobile: ${phone}${est}`;
+      const msg = `G'day Roleblend AU! I'd like to know more about the work-from-home opportunity.\n\nName: ${name}\nEmail: ${email}\nMobile: ${phone}${est}`;
       window.open(`https://wa.me/${WA_NUMBER}?text=${encodeURIComponent(msg)}`, '_blank');
       window.location.href = 'thank-you/';
     });
