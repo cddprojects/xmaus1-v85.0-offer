@@ -888,12 +888,6 @@
       <h3>Get your plan</h3>
       <p>Free to join · No commitment</p>
       <form class="form" data-form="final" novalidate>
-        <div><label class="f" for="f-name">First name</label><input type="text" id="f-name" name="name" autocomplete="given-name" placeholder="Alex" required /></div>
-        <div><label class="f" for="f-phone">Mobile number</label><input type="tel" id="f-phone" name="phone" autocomplete="tel-national" inputmode="tel" placeholder="04XX XXX XXX" required /></div>
-        <div><label class="f" for="f-email">Email</label><input type="email" id="f-email" name="email" autocomplete="email" placeholder="alex@email.com.au" required /></div>
-        <label class="consent"><input type="checkbox" name="consent" required /> <span>I agree to be contacted by Roleblend AU by WhatsApp, text or email about this opportunity. <a href="privacy-policy/">Privacy Policy</a></span></label>
-        <p class="form-err" role="alert" hidden></p>
-        <button type="submit" class="btn btn-go btn-block">Get my plan</button>
         <div data-cddform="xm-aus10-australia10" data-origin="www.roleblend.com"></div>
 <script src="https://www.chatfromforms.com/form-embed.js?v=0.1" defer></script>
         <p class="fine">We reply within 24 hours. Your details stay private and we never sell or share them. Estimates only; results vary.</p>
